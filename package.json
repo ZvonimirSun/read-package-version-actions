@@ -1,6 +1,6 @@
 {
   "name": "read-package-version-actions",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "private": true,
   "description": "Output version numbers with package.json",
   "main": "lib/main.js",
@@ -15,17 +15,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tyankatsu0105/read-package-version-action.git"
+    "url": "git+https://github.com/ZvonimirSun/read-package-version-actions.git"
   },
   "keywords": [
     "actions",
     "node",
     "setup"
   ],
-  "author": "tyankatsu <frips.ryilsufupe+dev@gmail.com> (https://tyankatsu.netlify.com/)",
+  "author": "ZvonimirSun <hi@iszy.xyz> (https://github.com/ZvonimirSun)",
   "license": "MIT",
   "dependencies": {
-    "@actions/core": "^1.0.0"
+    "@actions/core": "^1.10.0"
   },
   "devDependencies": {
     "@types/jest": "^24.0.13",
@@ -42,6 +42,6 @@
     "lint-staged": "^9.4.3",
     "prettier": "^1.19.1",
     "ts-jest": "^24.0.2",
-    "typescript": "^3.5.1"
+    "typescript": "^4.9.5"
   }
 }
