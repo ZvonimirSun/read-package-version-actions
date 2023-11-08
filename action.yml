@@ -1,4 +1,4 @@
-name: 'Read package.json version'
+name: 'Read version in package.json'
 description: 'Output version numbers with package.json'
 inputs:
   path:
