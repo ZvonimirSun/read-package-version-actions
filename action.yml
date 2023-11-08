@@ -1,5 +1,8 @@
 name: 'Read version in package.json'
 description: 'Output version numbers with package.json'
+branding:
+  icon: package
+  color: 'blue'
 inputs:
   path:
     description: 'Path of package.json'
